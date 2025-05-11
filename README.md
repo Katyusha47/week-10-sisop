@@ -6,13 +6,13 @@ Assalamualaikum wr. wb. Kali ini saya akan memberikan tutorial untuk tugas week 
   ```console
   cd shell
   ```
-  ![Masuk ke directory shell](images/masuk-ke-folder-shell.png)
+  <img src="images/masuk-ke-folder-shell.png" alt="Masuk ke directory shell" width="700"/>
 
 - Selanjutnya, edit file shell.c dengan cara:
   ```console
   gedit shell.c
   ```
-  ![Edit file shell.c](images/edit-file-shell,c.png)
+  <img src="images/edit-file-shell,c.png" alt="Edit file shell.c" width="700"/>
 
- - Lalu, tambahkan `{"mycmd",      xsh_mycmd},` dibawah `{"uptime",      xsh_uptime},` seperti gambar dibawah
+- Lalu, tambahkan `{"mycmd",      xsh_mycmd},` dibawah `{"uptime",      xsh_uptime},` seperti gambar dibawah
   <img src="images/add-mycmd.png" alt="tambahkan xsh_mycmd dibawah xsh_uptime" width="700"/>
