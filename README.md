@@ -4,6 +4,7 @@ Assalamualaikum wr. wb. Kali ini saya akan memberikan tutorial untuk tugas week 
 
 - Pertama, buka development-system nya. Lalu masuk ke directory shell dengan cara:
   ```console
+  cd xinu
   cd shell
   ```
   <img src="images/masuk-ke-folder-shell.png" alt="Masuk ke directory shell" width="700"/>
