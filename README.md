@@ -93,8 +93,13 @@ extern  shellcmd   xsh_uptime       (int32, char *[]);``` seperti gambar dibawah
   }
   ```
 
-- Setelah itu, keluar dari directory shell lalu masuk ke directory compile dengan cara:
+- Jangan lupa file nya di save agar tidak mengulang step sebelumnya. Setelah itu, keluar dari directory shell lalu masuk ke directory compile dengan cara:
   ```console
   cd ..
-  
+  cd compile
   ```
+  Lalu ketik `make clean` setelah itu `make` seperti gambar dibawah:
+  <img src="images/to-compile.png" alt="masuk ke directory compile, lalu lakukan make clean dan make" width="700"/>
+
+- Jika muncul seperti ini berarti tidak ada yang error:
+  <img src="images/success.png" alt="make clean dan make berhasil" width="700"/>
