@@ -7,3 +7,12 @@ Assalamualaikum wr. wb. Kali ini saya akan memberikan tutorial untuk tugas week 
   cd shell
   ```
   ![Masuk ke directory shell](images/masuk-ke-folder-shell.png)
+
+- Selanjutnya, edit file shell.c dengan cara:
+  ```console
+  gedit shell.c
+  ```
+  ![Edit file shell.c](images/edit-file-shell,c.png)
+
+  -Lalu, tambahkan `{"mycmd",      xsh_mycmd},` dibawah `{"uptime",      xsh_uptime},` seperti gambar dibawah
+  ![tambahkan xsh_mycmd dibawah xsh_uptime](images/add-mycmd.png)
