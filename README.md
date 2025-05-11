@@ -4,5 +4,6 @@ Assalamualaikum wr. wb. Kali ini saya akan memberikan tutorial untuk tugas week 
 
 - Pertama, buka development-system nya. Lalu masuk ke directory shell dengan cara:
   ```console
-  cd shell ```
-  
+  cd shell
+  ```
+  ![Masuk ke directory shell](images/masuk-ke-folder-shell.png)
