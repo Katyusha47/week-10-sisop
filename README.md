@@ -29,4 +29,8 @@ Assalamualaikum wr. wb. Kali ini saya akan memberikan tutorial untuk tugas week 
   ```console
   gedit shprototypes.h
   ```
-  <img src="images/edit-shprototypes.h.png" alt="gedit shprototypes.h" width="700"/>
+  <img src="images/edit-shprototypes.h.png" alt="gedit shprototypes.h" width="1000"/>
+
+- Setelah itu, scroll kebawah dan cari ```xsh_help.c```. Lalu di bawgian bawahnya tambahkan ```/* in file xsh_uptime.c */
+extern  shellcmd   xsh_uptime       (int32, char *[]);``` seperti gambar dibawah:
+  <img src="images/add-xsh_mycmd.png" alt="tambahkan xsh_mycmd kedalam shprototypes.h" width="1000"/>
