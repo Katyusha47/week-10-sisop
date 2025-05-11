@@ -24,3 +24,5 @@ Assalamualaikum wr. wb. Kali ini saya akan memberikan tutorial untuk tugas week 
   cd include
   ```
   <img src="images/masuk-folder-include.png" alt="masuk kedalam directory include" width="700"/>
+
+- Kali ini kita akan mengedit file `shprototypes.h' dengan cara
