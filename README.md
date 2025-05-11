@@ -106,6 +106,7 @@ extern  shellcmd   xsh_uptime       (int32, char *[]);``` seperti gambar dibawah
 
 - Setelah itu, buka `sudo minicom` lalu masukkan password xinu nya
   <img src="images/sudo-minicom.png" alt="masuk ke sudo minicom" width="800"/>
+  
   jangan lupa, setelah memasukkan password, nyalakan backend nya.
 
 - Setelah muncul logo xinu, coba ketik command `help`. Pastikan apakah command `mycmd` sudah terbaca.
@@ -113,4 +114,5 @@ extern  shellcmd   xsh_uptime       (int32, char *[]);``` seperti gambar dibawah
 
 - Jika sudah muncul, coba lakukan seperti gambar yang ada dibawah:
   <img src="images/test-mycmd.png" alt="test command mycmd" width="800"/>
+  
   jika berhasil maka akan muncul seperti gambar diatas.
