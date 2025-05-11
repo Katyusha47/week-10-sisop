@@ -42,6 +42,7 @@ extern  shellcmd   xsh_uptime       (int32, char *[]);``` seperti gambar dibawah
   ```
   Setelah itu buat file baru dengan command `gedit xsh_mycmd.c` seperti gambar dibawah:
   <img src="images/create-new-xsh_mycmd.png" alt="buat file baru bernama xsh_mycmd.c" width="800"/>
+  
   karena filenya baru dibuat, jadi tidak ada isinya. Masukkan kode ini kedalam file xsh_mycmd.c:
   ```console
   /* xsh_mycmd.c - xsh_mycmd */
