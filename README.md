@@ -14,5 +14,5 @@ Assalamualaikum wr. wb. Kali ini saya akan memberikan tutorial untuk tugas week 
   ```
   ![Edit file shell.c](images/edit-file-shell,c.png)
 
-  -Lalu, tambahkan `{"mycmd",      xsh_mycmd},` dibawah `{"uptime",      xsh_uptime},` seperti gambar dibawah
+  - Lalu, tambahkan `{"mycmd",      xsh_mycmd},` dibawah `{"uptime",      xsh_uptime},` seperti gambar dibawah
   ![tambahkan xsh_mycmd dibawah xsh_uptime](images/add-mycmd.png)
